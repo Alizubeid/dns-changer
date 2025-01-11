@@ -18,6 +18,10 @@ $name 45.90.30.190"
 $name 208.67.220.220"
 [7]="$name 9.9.9.9
 $name 149.112.112.112"
+[8]="$name 10.202.10.10
+$name 216.66.95.38"
+[9]="$name 78.157.42.100
+$name 1.57.222.1"
 )
 
 
@@ -28,6 +32,8 @@ sudo echo  "[1] Google
 [5] nextDNS
 [6] openDNS
 [7] Quad9
+[8] PG1
+[9] PG2
 "
 
 read -rp "Which one : " inp
